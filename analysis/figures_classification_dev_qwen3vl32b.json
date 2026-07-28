@@ -1,0 +1,1327 @@
+{
+  "val_fig_0001.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0002.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0003.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0004.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0005.png": {
+    "num_panels": 2,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_0006.png": {
+    "num_panels": 2,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_0007.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0008.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0010.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0011.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0014.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0015.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0016.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0017.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0018.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0019.png": {
+    "num_panels": 6,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0020.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0021.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0029.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0032.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0033.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0035.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0036.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0042.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0043.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0045.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0046.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0047.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0048.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0049.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0050.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0051.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0052.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0053.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0054.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0056.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0057.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0058.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0059.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0060.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0062.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0063.png": {
+    "num_panels": 6,
+    "type": "histogram",
+    "confidence": 0.95
+  },
+  "val_fig_0064.png": {
+    "num_panels": 12,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0065.png": {
+    "num_panels": 12,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0066.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0067.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0069.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0070.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0071.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0073.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0074.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0075.png": {
+    "num_panels": 2,
+    "type": "diagram",
+    "confidence": 0.95
+  },
+  "val_fig_0076.png": {
+    "num_panels": 2,
+    "type": "diagram",
+    "confidence": 0.95
+  },
+  "val_fig_0077.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0078.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0079.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0080.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0081.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0093.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0094.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0096.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0097.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0098.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0099.png": {
+    "num_panels": 1,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0100.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0106.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0109.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0112.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0113.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0114.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0116.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0117.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0118.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0120.png": {
+    "num_panels": 7,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0121.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0122.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0123.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0124.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0125.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0126.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0127.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0128.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0129.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0130.png": {
+    "num_panels": 8,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0131.png": {
+    "num_panels": 8,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0137.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0138.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0139.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0140.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0141.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0142.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0144.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0145.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0146.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0147.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0148.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0154.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0155.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0156.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0158.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0159.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0160.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0161.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0163.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0167.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0168.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0169.png": {
+    "num_panels": 2,
+    "type": "pie chart",
+    "confidence": 0.95
+  },
+  "val_fig_0171.png": {
+    "num_panels": 2,
+    "type": "pie chart",
+    "confidence": 0.95
+  },
+  "val_fig_0173.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0174.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0175.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0178.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0179.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0180.png": {
+    "num_panels": 1,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0181.png": {
+    "num_panels": 1,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0182.png": {
+    "num_panels": 1,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0183.png": {
+    "num_panels": 1,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0184.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0186.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0187.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0188.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0191.png": {
+    "num_panels": 3,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0197.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0198.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0199.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0200.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0201.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0202.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0205.png": {
+    "num_panels": 3,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0206.png": {
+    "num_panels": 3,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0207.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0208.png": {
+    "num_panels": 9,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_0209.png": {
+    "num_panels": 9,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_0210.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0215.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0216.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0217.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0218.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0219.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0220.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0224.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0225.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0226.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0227.png": {
+    "num_panels": 2,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_0228.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0229.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0230.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0232.png": {
+    "num_panels": 4,
+    "type": "scatter plot",
+    "confidence": 1.0
+  },
+  "val_fig_0233.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0234.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0235.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0236.png": {
+    "num_panels": 7,
+    "type": "box plot",
+    "confidence": 0.95
+  },
+  "val_fig_0237.png": {
+    "num_panels": 12,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0238.png": {
+    "num_panels": 9,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0239.png": {
+    "num_panels": 8,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_0240.png": {
+    "num_panels": 9,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_0241.png": {
+    "num_panels": 9,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_0245.png": {
+    "num_panels": 6,
+    "type": "box plot",
+    "confidence": 0.95
+  },
+  "val_fig_0246.png": {
+    "num_panels": 8,
+    "type": "box plot",
+    "confidence": 0.95
+  },
+  "val_fig_0247.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0248.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0249.png": {
+    "num_panels": 5,
+    "type": "box plot",
+    "confidence": 0.95
+  },
+  "val_fig_0250.png": {
+    "num_panels": 2,
+    "type": "box plot",
+    "confidence": 0.95
+  },
+  "val_fig_0251.png": {
+    "num_panels": 2,
+    "type": "box plot",
+    "confidence": 0.95
+  },
+  "val_fig_0254.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0255.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0256.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0257.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0259.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0260.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0261.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0262.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0263.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0264.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0265.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0266.png": {
+    "num_panels": 1,
+    "type": "pie chart",
+    "confidence": 1.0
+  },
+  "val_fig_0267.png": {
+    "num_panels": 1,
+    "type": "pie chart",
+    "confidence": 1.0
+  },
+  "val_fig_0268.png": {
+    "num_panels": 1,
+    "type": "pie chart",
+    "confidence": 1.0
+  },
+  "val_fig_0269.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0270.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0271.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0272.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0273.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0274.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0276.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0277.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0278.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0279.png": {
+    "num_panels": 1,
+    "type": "table",
+    "confidence": 1.0
+  },
+  "val_fig_0281.png": {
+    "num_panels": 2,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_0282.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0283.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0284.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0285.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0286.png": {
+    "num_panels": 8,
+    "type": "box plot",
+    "confidence": 1.0
+  },
+  "val_fig_0287.png": {
+    "num_panels": 8,
+    "type": "box plot",
+    "confidence": 0.95
+  },
+  "val_fig_0288.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0289.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0290.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0291.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_0292.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0293.png": {
+    "num_panels": 8,
+    "type": "box plot",
+    "confidence": 1.0
+  },
+  "val_fig_0294.png": {
+    "num_panels": 8,
+    "type": "box plot",
+    "confidence": 1.0
+  },
+  "val_fig_0295.png": {
+    "num_panels": 8,
+    "type": "box plot",
+    "confidence": 1.0
+  },
+  "val_fig_0297.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0298.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_0299.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_0300.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_0302.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0303.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_0304.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_1500.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1501.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1502.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1503.png": {
+    "num_panels": 3,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_1504.png": {
+    "num_panels": 3,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1505.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1506.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1508.png": {
+    "num_panels": 1,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_1509.png": {
+    "num_panels": 3,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1510.png": {
+    "num_panels": 1,
+    "type": "radar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1511.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1512.png": {
+    "num_panels": 5,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1513.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1514.png": {
+    "num_panels": 1,
+    "type": "scatter plot",
+    "confidence": 0.95
+  },
+  "val_fig_1515.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1516.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_1517.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1518.png": {
+    "num_panels": 3,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1521.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1522.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1523.png": {
+    "num_panels": 4,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1524.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_1525.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_1526.png": {
+    "num_panels": 8,
+    "type": "box plot",
+    "confidence": 1.0
+  },
+  "val_fig_1527.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1528.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_1529.png": {
+    "num_panels": 2,
+    "type": "pie chart",
+    "confidence": 0.95
+  },
+  "val_fig_1530.png": {
+    "num_panels": 9,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_1531.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1533.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_1534.png": {
+    "num_panels": 7,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1535.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1536.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1537.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1538.png": {
+    "num_panels": 4,
+    "type": "scatter plot",
+    "confidence": 1.0
+  },
+  "val_fig_1539.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1540.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_1541.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1542.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_1543.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1544.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1545.png": {
+    "num_panels": 9,
+    "type": "heatmap",
+    "confidence": 0.95
+  },
+  "val_fig_1546.png": {
+    "num_panels": 2,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1547.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1548.png": {
+    "num_panels": 12,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_1549.png": {
+    "num_panels": 1,
+    "type": "heatmap",
+    "confidence": 1.0
+  },
+  "val_fig_1550.png": {
+    "num_panels": 1,
+    "type": "pie chart",
+    "confidence": 1.0
+  },
+  "val_fig_1551.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_1552.png": {
+    "num_panels": 3,
+    "type": "line chart",
+    "confidence": 0.95
+  },
+  "val_fig_1553.png": {
+    "num_panels": 4,
+    "type": "bar chart",
+    "confidence": 0.95
+  },
+  "val_fig_1555.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1556.png": {
+    "num_panels": 1,
+    "type": "line chart",
+    "confidence": 1.0
+  },
+  "val_fig_1557.png": {
+    "num_panels": 2,
+    "type": "pie chart",
+    "confidence": 0.95
+  },
+  "val_fig_0165.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  },
+  "val_fig_1519.png": {
+    "num_panels": 1,
+    "type": "bar chart",
+    "confidence": 1.0
+  }
+}

@@ -1,0 +1,80 @@
+NTCIR SciClaimEval data analysis
+
+--- Task 1 - test_task1_release.json ---
+Available fields: ['caption', 'claim', 'claim_id', 'context', 'domain', 'evi_path', 'evi_path_original', 'evi_type', 'license_name', 'license_url', 'paper_id', 'paper_path', 'use_context']
+Total entries: 917
+Unique papers: 164
+Claims per paper: min=1, max=24, mean=5.59
+
+Domains:
+  nlp                  :  389 (42.4%)
+  peerj                :  288 (31.4%)
+  ml                   :  240 (26.2%)
+
+Evidence types:
+  table                :  523 (57.0%)
+  figure               :  394 (43.0%)
+
+use_context:
+  no                   :  619 (67.5%)
+  yes                  :  190 (20.7%)
+  other sources        :  108 (11.8%)
+
+Text lengths (words):
+  claim      : min=   7, max=   91, mean=  26.1, median=  24.0
+  caption    : min=   3, max=  206, mean=  41.6, median=  29.0
+  context    : min=   8, max=  296, mean=  69.2, median=  58.0
+
+Licenses:
+  CC BY 4.0                      :  832 (90.7%)
+  CC BY-NC-SA 4.0                :   61 (6.7%)
+  CC BY-SA 4.0                   :   10 (1.1%)
+  Public Domain                  :    8 (0.9%)
+  CC BY-NC 4.0                   :    6 (0.7%)
+
+Entries without evi_path: 0
+Duplicate claim_ids     : 0
+
+--- Task 2 - test_task2_release.json ---
+Available fields: ['caption', 'claim', 'context', 'domain', 'evi_type', 'evidence_id_1', 'evidence_id_2', 'license_name', 'license_url', 'paper_path', 'question', 'sample_id', 'use_context']
+Total entries: 436
+Unique papers: 1
+Claims per paper: min=436, max=436, mean=436.00
+
+Domains:
+  nlp                  :  190 (43.6%)
+  peerj                :  137 (31.4%)
+  ml                   :  109 (25.0%)
+
+Evidence types:
+  table                :  256 (58.7%)
+  figure               :  180 (41.3%)
+
+use_context:
+  no                   :  294 (67.4%)
+  yes                  :   92 (21.1%)
+  other sources        :   50 (11.5%)
+
+Text lengths (words):
+  claim      : min=   7, max=   91, mean=  26.0, median=  24.0
+  caption    : min=   3, max=  206, mean=  41.1, median=  29.0
+  context    : min=   8, max=  296, mean=  68.3, median=  56.0
+
+Licenses:
+  CC BY 4.0                      :  396 (90.8%)
+  CC BY-NC-SA 4.0                :   28 (6.4%)
+  CC BY-SA 4.0                   :    5 (1.1%)
+  Public Domain                  :    4 (0.9%)
+  CC BY-NC 4.0                   :    3 (0.7%)
+
+Entries without evi_path: 436
+Duplicate claim_ids     : 435
+
+--- Task1 vs Task2 comparison ---
+Papers in common : 0
+Task1 only       : 164
+Task2 only       : 1
+Task1 domains    : ['ml', 'nlp', 'peerj']
+Task2 domains    : ['ml', 'nlp', 'peerj']
+
+Analysis complete.

@@ -1,0 +1,2990 @@
+[
+  {
+    "claim_id": "val_tab_0001",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0002",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0004",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0005",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0006",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0008",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0009",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0010",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0016",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0017",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0018",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0019",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0020",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0022",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0023",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0026",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0027",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0029",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0030",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0031",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0032",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0033",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0034",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0035",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0036",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0037",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0038",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0040",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0041",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0042",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0044",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0054",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0055",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0056",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0057",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0058",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0059",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0060",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0062",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0064",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0065",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0066",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0067",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0068",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0069",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0070",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0072",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0073",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0074",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0075",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0076",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0077",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0078",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0079",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0080",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0081",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0082",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0083",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0084",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0001",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0002",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0003",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0004",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0005",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0006",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0007",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0008",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0010",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0011",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0014",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0015",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0016",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0017",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0018",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0019",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0020",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0021",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0029",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0032",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0033",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0035",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0036",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0042",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0043",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0045",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0046",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0047",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0048",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0049",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0050",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0051",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0052",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0053",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0054",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0056",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0057",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0058",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0059",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0060",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0062",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0063",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0064",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0065",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0066",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0067",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0069",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0070",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0071",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0073",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0074",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0075",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0076",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0077",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0078",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0079",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0080",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0081",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0093",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0094",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0096",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0097",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0098",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0099",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0100",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0106",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0109",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0112",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0113",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0114",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0116",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0087",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0088",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0089",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0090",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0091",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0092",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0093",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0094",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0095",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0096",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0097",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0098",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0099",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0100",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0101",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0102",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0103",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0104",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0105",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0106",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0107",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0108",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0109",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0110",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0111",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0112",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0113",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0114",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0115",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0116",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0117",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0119",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0120",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0121",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0122",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0124",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0126",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0127",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0130",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0131",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0132",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0133",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0136",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0138",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0139",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0141",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0142",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0143",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0146",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0147",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0149",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0150",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0151",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0152",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0153",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0154",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0155",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0156",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0157",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0158",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0159",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0160",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0161",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0162",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0164",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0165",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0166",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0168",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0169",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0173",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0174",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0177",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0178",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0179",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0181",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0182",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0183",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0184",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0185",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0188",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0189",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0191",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0193",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0194",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0195",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0196",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0197",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0199",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0200",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0201",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0202",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0203",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0204",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0205",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0206",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0208",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0209",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0210",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0211",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0212",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0213",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0214",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0215",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0216",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0217",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0218",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0220",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0221",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0224",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0225",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0228",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0229",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0230",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0231",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0232",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0235",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0236",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0237",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0238",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0239",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0241",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0243",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0244",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0245",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0246",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0247",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0248",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0249",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0250",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0252",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0253",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0255",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0256",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0257",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0258",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0260",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0261",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0262",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0263",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0264",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0265",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0266",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0267",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0270",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0272",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0273",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0274",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0275",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0276",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0277",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0278",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0279",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0284",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0286",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0288",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0289",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0290",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0291",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0292",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0295",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0297",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0298",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0299",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0300",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0301",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0302",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0303",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0304",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0305",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0306",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0321",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0323",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0324",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0327",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0328",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0329",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0330",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0331",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0332",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0333",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0335",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0336",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0341",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0342",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0343",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0344",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0345",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0347",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0348",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0349",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0350",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0351",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0353",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0354",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0355",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0356",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0357",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0358",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0359",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0360",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0361",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0362",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0363",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0365",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0366",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0367",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0368",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0369",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0370",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0371",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0372",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0373",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0374",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0376",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0377",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0379",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0380",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0381",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0382",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0383",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0384",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0385",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0386",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0387",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0388",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0389",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0391",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0392",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0393",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0394",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0396",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0399",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0400",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0402",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0403",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0404",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0406",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0407",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0408",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0409",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0412",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0413",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0117",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0118",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0120",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0121",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0122",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0123",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0124",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0125",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0126",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0127",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0128",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0129",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0130",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0131",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0137",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0138",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0139",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0140",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0141",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0142",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0144",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0145",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0146",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0147",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0148",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0154",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0155",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0156",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0158",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0159",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0160",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0161",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0163",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0165",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0167",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0168",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0169",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0171",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0173",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0174",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0175",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0178",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0179",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0180",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0181",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0182",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0183",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0184",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0186",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0187",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0188",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0191",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0197",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0198",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0199",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0200",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0201",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0202",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0205",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0206",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0207",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0417",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0418",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0419",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0420",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0421",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0422",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0423",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0424",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0426",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0427",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0429",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0430",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0431",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0432",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0434",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0435",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0436",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0437",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0438",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0440",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0441",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0442",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0443",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0445",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0446",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0447",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0448",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0449",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0451",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0452",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0453",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0454",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0455",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0456",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0457",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0460",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0462",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0463",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0464",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0465",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0466",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0468",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0469",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0472",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0473",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0474",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0475",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0479",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0480",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0481",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0482",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0483",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0484",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0485",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0486",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0487",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0488",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0489",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0490",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0491",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0492",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0493",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0495",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0496",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0497",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0498",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0499",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0500",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0501",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0502",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0503",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0504",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0505",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_0506",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_0507",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0208",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0209",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0210",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0215",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0216",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0217",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0218",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0219",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0220",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0224",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0225",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0226",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0227",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0228",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0229",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0230",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0232",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0233",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0234",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0235",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0236",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0237",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0238",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0239",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0240",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0241",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0245",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0246",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0247",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0248",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0249",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0250",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0251",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0254",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0255",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0256",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0257",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0259",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0260",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0261",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0262",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0263",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0264",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0265",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0266",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0267",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0268",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0269",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0270",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0271",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0272",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0273",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0274",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0276",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0277",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0278",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0279",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0281",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0282",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0283",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0284",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0285",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0286",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0287",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0288",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0289",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0290",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0291",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0292",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0293",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0294",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0295",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0297",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0298",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0299",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0300",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0302",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_0303",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_0304",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1500",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1500",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1501",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1501",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1502",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1503",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1502",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1504",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1505",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1506",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1503",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1504",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1505",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1507",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1508",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1509",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1506",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1508",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1510",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1511",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1509",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1512",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1510",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1511",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1513",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1514",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1512",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1513",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1515",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1516",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1517",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1518",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1519",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1514",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1520",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1521",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1515",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1522",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1516",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1523",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1524",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1517",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1525",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1526",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1527",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1518",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1528",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1529",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1519",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1521",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1530",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1531",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1522",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1532",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1533",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1534",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1535",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1523",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1536",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1524",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1525",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1537",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1538",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1539",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1540",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1542",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1526",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1543",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1544",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1545",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1527",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1546",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1528",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1529",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1547",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1548",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1549",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1550",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1551",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1530",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1552",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1553",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1531",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1533",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1554",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1555",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1556",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1557",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1534",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1535",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1558",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1559",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1536",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1537",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1560",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1561",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1538",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1539",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1562",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1563",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1540",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1564",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1565",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1566",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1567",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1568",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1569",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1541",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1570",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1571",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1572",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1542",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1543",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1573",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1574",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1575",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1544",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1545",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1576",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1577",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1546",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1578",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1579",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1547",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1580",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1581",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1582",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1583",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1584",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1585",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1548",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_fig_1549",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1586",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1587",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1588",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1550",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1551",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1589",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1552",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1590",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1591",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1592",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1593",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1553",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1594",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1595",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1596",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1597",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1555",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1598",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1599",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1600",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1603",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1604",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1556",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1605",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1606",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_fig_1557",
+    "pred_label": "Refuted"
+  },
+  {
+    "claim_id": "val_tab_1607",
+    "pred_label": "Supported"
+  },
+  {
+    "claim_id": "val_tab_1608",
+    "pred_label": "Refuted"
+  }
+]

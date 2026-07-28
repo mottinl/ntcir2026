@@ -1,0 +1,1886 @@
+{
+  "test_fig_0001.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A series of line charts showing the percentage of conserved correct predictions as a function of occluder object x-axis position for different network architectures."
+  },
+  "test_fig_0002.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 925.00 MiB is free. Including non-PyTorch memory, this process has 17.05 GiB memory in use. Of the allocated memory 15.97 GiB is allocated by PyTorch, and 940.14 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0003.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying two sets of bars (BWT and Accuracy) across different residual strength values."
+  },
+  "test_fig_0004.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying two sets of bars for each residual strength value, representing backward transfer (BWT) and accuracy."
+  },
+  "test_fig_0011.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing two curves representing different models and their Stackelberg equilibria as a function of environmental action magnitude."
+  },
+  "test_fig_0012.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing the relationship between the magnitude of the environment's action and a function value, with two models and two equilibrium points marked."
+  },
+  "test_fig_0013.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentage values for different comparisons across categories."
+  },
+  "test_fig_0014.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentages for different comparisons between M3G and various models."
+  },
+  "test_fig_0015.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentages for different comparisons between M3G and various models."
+  },
+  "test_fig_0016.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentages for different comparisons between M3G and various models."
+  },
+  "test_fig_0017.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying accuracy of various graph neural network models against the length of a chain."
+  },
+  "test_fig_0018.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying accuracy across different graph neural network models as the length of a chain varies."
+  },
+  "test_fig_0019.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing accuracy of various graph neural network models as a function of chain length."
+  },
+  "test_fig_0020.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing accuracy versus the length of a chain for various graph neural network models."
+  },
+  "test_fig_0021.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying three different methods (Boltzmann, UCB, Thompson) plotted against description length on a logarithmic scale."
+  },
+  "test_fig_0022.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing three different methods (Boltzmann, UCB, Thompson) plotted against description length on a logarithmic scale."
+  },
+  "test_fig_0023.png": {
+    "type": "scatter plot",
+    "confidence": 1.0,
+    "description": "A scatter plot showing two data series (Humans and RR-RL²) plotted across two dimensions with overlapping points."
+  },
+  "test_fig_0024.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing two groups of data points (Humans and RR-RL²) plotted across two dimensions."
+  },
+  "test_fig_0027.png": {
+    "type": "diagram",
+    "confidence": 0.95,
+    "description": "The figure displays multiple panels showing data points, class labels, and observed features, arranged to illustrate a conceptual or analytical process rather than a statistical summary."
+  },
+  "test_fig_0028.png": {
+    "type": "diagram",
+    "confidence": 0.95,
+    "description": "The figure displays multiple panels with data points, class labels, and observed features, illustrating a conceptual or analytical diagram rather than a standard statistical plot."
+  },
+  "test_fig_0029.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing cumulative reward over different data augmentation levels."
+  },
+  "test_fig_0030.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "A line chart showing cumulative reward over different experimental conditions with labeled data points."
+  },
+  "test_fig_0031.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying three categories of data (Non-masked, Text-masked, Vision-masked) across four different x-axis values (0.1, 0.3, 0.4, 0.8) with corresponding bar heights."
+  },
+  "test_fig_0032.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying three categories of data (Non-masked, Text-masked, Vision-masked) across four different x-axis values, with bars grouped and colored to represent each category."
+  },
+  "test_fig_0033.png": {
+    "type": "diagram",
+    "confidence": 0.98,
+    "description": "The figure displays crystal lattice structures with atomic arrangements, comparing ground truth and generated models."
+  },
+  "test_fig_0038.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying accuracy metrics for various graph neural network models across different chain lengths in binary and multiclass classification tasks."
+  },
+  "test_fig_0039.png": {
+    "type": "scatter plot",
+    "confidence": 1.0,
+    "description": "A scatter plot showing average survival months versus score sustainable threshold for different models in two separate plots."
+  },
+  "test_fig_0040.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing average survival months in simulation versus score sustainable threshold for different AI models."
+  },
+  "test_fig_0042.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "The figure displays multiple lines plotting MRAE (%) against epoch for different methods under two conditions (F=4 and F=6)."
+  },
+  "test_fig_0044.png": {
+    "type": "other",
+    "confidence": 1.0,
+    "description": "The figure contains 3D surface plots and a line chart with multiple curves, which does not fit into any single standard chart type."
+  },
+  "test_fig_0045.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying rewards over timesteps for three methods (METODS, RL2, MAML) with shaded confidence intervals."
+  },
+  "test_fig_0046.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing MRAE (%) over epochs for different methods under F=4 and F=6 conditions."
+  },
+  "test_fig_0048.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying accuracy versus chain length for multiple graph neural network models in binary and multiclass classification tasks."
+  },
+  "test_fig_0049.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing RMSE values across different numbers of acquisitions for various methods."
+  },
+  "test_fig_0051.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing AlpacaEval Win Rate as a function of Alpha for different numbers of epochs."
+  },
+  "test_fig_0052.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying accuracy percentages against the number of members for various methods."
+  },
+  "test_fig_0053.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing reward values over timesteps for three different methods."
+  },
+  "test_fig_0054.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing the early training dynamics of MLPs with varying depth over training iterations."
+  },
+  "test_fig_0055.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing KL-divergence values plotted against the number of members for two different methods."
+  },
+  "test_fig_0057.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing linear decodability percentages for 'Digit' and 'Color' attributes across different network depths."
+  },
+  "test_fig_0059.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 609.00 MiB is free. Including non-PyTorch memory, this process has 17.36 GiB memory in use. Of the allocated memory 16.02 GiB is allocated by PyTorch, and 1.17 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0060.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing average extractor accuracy over epochs for different training and testing conditions."
+  },
+  "test_fig_0062.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing three different methods (Boltzmann, UCB, Thompson) plotted against description length on a logarithmic scale."
+  },
+  "test_fig_0063.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "The figure displays multiple lines representing different algorithms' performance over trajectories in various environments."
+  },
+  "test_fig_0065.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing accuracy versus the length of a chain for multiple graph neural network models."
+  },
+  "test_fig_0066.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing accuracy versus chain length for different graph neural network models in binary and multiclass classification tasks."
+  },
+  "test_fig_0067.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing the number of samples as a function of beta for different algorithms."
+  },
+  "test_fig_0069.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 1.06 GiB is free. Including non-PyTorch memory, this process has 16.89 GiB memory in use. Of the allocated memory 15.95 GiB is allocated by PyTorch, and 795.81 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0070.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays two line charts showing accuracy and ECE versus the number of ensemble members for different methods."
+  },
+  "test_fig_0076.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing the training dynamics of DeNetDM with four different branches over training iterations."
+  },
+  "test_fig_0077.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 893.00 MiB is free. Including non-PyTorch memory, this process has 17.08 GiB memory in use. Of the allocated memory 16.00 GiB is allocated by PyTorch, and 938.94 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0078.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 1.11 GiB is free. Including non-PyTorch memory, this process has 16.84 GiB memory in use. Of the allocated memory 16.00 GiB is allocated by PyTorch, and 698.94 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0079.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying accuracy values for different exemplar selection strategies with two data series."
+  },
+  "test_fig_0080.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays multiple lines representing different algorithms' performance over trajectories in various environments."
+  },
+  "test_fig_0083.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing TOP-1 Accuracy (%) on the y-axis and Percentage on the x-axis, with two lines representing 'Random Flipped Data' and 'Data Volume'."
+  },
+  "test_fig_0084.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "The figure displays multiple lines representing MRAE (%) over epochs for different F values on two datasets, indicating a line chart."
+  },
+  "test_fig_0085.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing the early training dynamics of MLPs with varying depth over training iterations."
+  },
+  "test_fig_0086.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing two lines representing non-adversarial and adversarial settings plotted against the number of model parameters."
+  },
+  "test_fig_0087.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "The figure displays two line charts showing accuracy and ECE versus the number of ensemble members for different methods."
+  },
+  "test_fig_0088.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays multiple lines plotting test accuracy, test error over training epochs, and gradient error against depth, characteristic of a line chart."
+  },
+  "test_fig_0089.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying performance metrics (accuracy, pass@1) across different values of k for two methods (Ensemble Routing and SCMoE) on four datasets."
+  },
+  "test_fig_0090.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing cumulative reward over different DA increments with labeled data points."
+  },
+  "test_fig_0091.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "A scatter plot showing individual data points with trend lines for 'directed' and 'random' categories against age."
+  },
+  "test_fig_0092.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying performance metrics across different values of k for four datasets."
+  },
+  "test_fig_0093.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing test error versus depth for four different methods."
+  },
+  "test_fig_0094.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying two lines representing non-adversarial and adversarial settings against the number of model parameters."
+  },
+  "test_fig_0095.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying accuracy percentages against the number of members for various methods."
+  },
+  "test_fig_0098.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "A scatter plot showing data points with two fitted lines and confidence bands for 'random' and 'directed' categories against age."
+  },
+  "test_fig_0099.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 609.00 MiB is free. Including non-PyTorch memory, this process has 17.36 GiB memory in use. Of the allocated memory 15.97 GiB is allocated by PyTorch, and 1.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0101.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays multiple lines representing different models' performance over training iterations, with shaded areas indicating variability or confidence intervals."
+  },
+  "test_fig_0103.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A stacked bar chart showing forward and backward time for different methods."
+  },
+  "test_fig_0105.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying three different algorithms' performance over varying description lengths on a logarithmic scale."
+  },
+  "test_fig_0106.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing accuracy versus chain length for multiple graph neural network models."
+  },
+  "test_fig_0108.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing accuracy across different graph neural network models as a function of chain length."
+  },
+  "test_fig_0109.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying performance metrics across different values of k for four algorithms on four datasets."
+  },
+  "test_fig_0111.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays multiple lines representing estimation error over trajectory, with shaded areas indicating variability or confidence intervals."
+  },
+  "test_fig_0113.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "The figure displays multiple lines representing different values (F=4, F=6, F=8, F=10) plotted against epochs on the x-axis and MRAE (%) on the y-axis for two datasets (SHIFT15M-B and IMDB-Clean-B)."
+  },
+  "test_fig_0114.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 609.00 MiB is free. Including non-PyTorch memory, this process has 17.36 GiB memory in use. Of the allocated memory 15.95 GiB is allocated by PyTorch, and 1.24 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0115.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing rewards over timesteps for three different methods."
+  },
+  "test_fig_0116.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying accuracy over steps for three different methods."
+  },
+  "test_fig_0117.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "Three line charts showing test accuracy, test error over training epochs, and gradient error vs depth for different network architectures."
+  },
+  "test_fig_0118.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing accuracy percentages versus the number of members for different methods."
+  },
+  "test_fig_0119.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "Three line charts showing estimation error over trajectory for different scenarios."
+  },
+  "test_fig_0120.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing NWER values across different model parameter counts for various model families and perturbation types."
+  },
+  "test_fig_0123.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays two line charts showing trends in accuracy and ECE versus gain parameter ρ for different models."
+  },
+  "test_fig_0126.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing ROUGE Score versus Alpha for different categories."
+  },
+  "test_fig_0130.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 208.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 165.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.15 GiB is allocated by PyTorch, and 485.01 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0131.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 208.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 165.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.06 GiB is allocated by PyTorch, and 577.87 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0132.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 208.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 165.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.06 GiB is allocated by PyTorch, and 577.87 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0133.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 208.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 165.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.06 GiB is allocated by PyTorch, and 577.87 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0134.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 202.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 165.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.23 GiB is allocated by PyTorch, and 410.52 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0135.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 202.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 165.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.23 GiB is allocated by PyTorch, and 410.52 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0136.png": {
+    "type": "box plot",
+    "confidence": 1.0,
+    "description": "A box plot showing feature importance distributions for various metrics."
+  },
+  "test_fig_0137.png": {
+    "type": "box plot",
+    "confidence": 0.99,
+    "description": "A box plot showing feature importance distributions for various metrics."
+  },
+  "test_fig_0138.png": {
+    "type": "box plot",
+    "confidence": 0.99,
+    "description": "A box plot showing feature importance distributions for various metrics."
+  },
+  "test_fig_0139.png": {
+    "type": "box plot",
+    "confidence": 0.99,
+    "description": "A box plot showing feature importance distributions for various metrics."
+  },
+  "test_fig_0140.png": {
+    "type": "box plot",
+    "confidence": 0.98,
+    "description": "A box plot showing the distribution of feature importance across multiple features."
+  },
+  "test_fig_0141.png": {
+    "type": "box plot",
+    "confidence": 0.98,
+    "description": "A box plot showing feature importance distributions for various metrics."
+  },
+  "test_fig_0142.png": {
+    "type": "box plot",
+    "confidence": 1.0,
+    "description": "A box plot showing feature importance distributions for various metrics."
+  },
+  "test_fig_0143.png": {
+    "type": "box plot",
+    "confidence": 0.99,
+    "description": "A box plot showing feature importance distributions for various metrics."
+  },
+  "test_fig_0146.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying the mean saved@k values for various models as a function of k."
+  },
+  "test_fig_0147.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying the mean saved@k values for various models as k increases from 1 to 35."
+  },
+  "test_fig_0148.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying the mean saved@k values for various models as a function of k, with different lines representing different models and an average line."
+  },
+  "test_fig_0154.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing EstTrue-Accuracy scores across different formatting categories for various methods."
+  },
+  "test_fig_0155.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying EstTrue-Accuracy scores across different special character categories for various methods."
+  },
+  "test_fig_0156.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying EstTrue-Accuracy scores across different text formatting categories for various model configurations."
+  },
+  "test_fig_0157.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying EstTrue-Accuracy scores across different special character types for various methods."
+  },
+  "test_fig_0158.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying EstTrue-Accuracy scores across different categories with multiple data series."
+  },
+  "test_fig_0159.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying EstTrue-Accuracy scores across different special character categories with multiple data series."
+  },
+  "test_fig_0160.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying EstTrue-Accuracy scores across different formatting categories for various methods."
+  },
+  "test_fig_0161.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying EstTrue-Accuracy scores across different special character categories for various methods."
+  },
+  "test_fig_0162.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A grouped bar chart displaying performance metrics across different models and categories using stacked bars with color-coded segments."
+  },
+  "test_fig_0163.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying stacked bars for multiple models across four different categories, with each segment representing a different outcome."
+  },
+  "test_fig_0164.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A series of four grouped bar charts showing performance metrics across different models and conditions."
+  },
+  "test_fig_0165.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A grouped bar chart showing performance metrics across different models in four categories."
+  },
+  "test_fig_0166.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A grouped bar chart displaying performance metrics across different models and categories using stacked bars with color-coded segments."
+  },
+  "test_fig_0167.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A grouped bar chart displaying performance metrics across different models and categories using stacked bars with color-coded segments."
+  },
+  "test_fig_0168.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A series of stacked bar charts showing performance metrics across different models and categories."
+  },
+  "test_fig_0169.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying stacked bars for multiple models across four different categories, with each segment representing a different outcome."
+  },
+  "test_fig_0170.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying the frequency of the most frequent tag across different languages for three strategies."
+  },
+  "test_fig_0171.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying three strategies (HighLoss, UMT+Loss, random) across multiple categories with varying bar heights."
+  },
+  "test_fig_0172.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying three categories of correlation types with corresponding bar heights for different data series."
+  },
+  "test_fig_0173.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying correlation values for different languages across three correlation types."
+  },
+  "test_fig_0174.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentage exact match scores for different models and question types."
+  },
+  "test_fig_0175.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentage exact match scores for different models and question types."
+  },
+  "test_fig_0176.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentage exact match scores for different models and question types."
+  },
+  "test_fig_0177.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentage exact match scores for different models and question types."
+  },
+  "test_fig_0178.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentage exact match results for different models and question types."
+  },
+  "test_fig_0179.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentage exact match scores for different models and question types."
+  },
+  "test_fig_0180.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying percentage exact match scores for different models and question types."
+  },
+  "test_fig_0181.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying percentage exact match scores for different models and question types."
+  },
+  "test_fig_0182.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying multiple metrics over epochs with two y-axes."
+  },
+  "test_fig_0183.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying multiple metrics over epochs with two y-axes."
+  },
+  "test_fig_0184.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing multiple metrics over epochs with two y-axes."
+  },
+  "test_fig_0185.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying multiple metrics over epochs with two y-axes."
+  },
+  "test_fig_0186.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing multiple metrics plotted against epochs with two y-axes."
+  },
+  "test_fig_0187.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying multiple data series over epochs with two y-axes."
+  },
+  "test_fig_0188.png": {
+    "type": "violin plot",
+    "confidence": 1.0,
+    "description": "A violin plot showing the distribution of Rouge-L scores for different models and tasks."
+  },
+  "test_fig_0189.png": {
+    "type": "violin plot",
+    "confidence": 1.0,
+    "description": "A violin plot showing the distribution of Rouge-L scores for different models and tasks."
+  },
+  "test_fig_0192.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing accuracy scores across different ranks for various language models and scripts."
+  },
+  "test_fig_0193.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing accuracy scores for different language models across various ranks and conditions."
+  },
+  "test_fig_0194.png": {
+    "type": "scatter plot",
+    "confidence": 0.99,
+    "description": "A scatter plot showing accuracy versus corpus size across different regions, with each region represented by a distinct color."
+  },
+  "test_fig_0195.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing accuracy versus corpus size for different regions, with each data point representing a measurement."
+  },
+  "test_fig_0196.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing accuracy versus corpus size across different regions, with each region represented by a distinct color."
+  },
+  "test_fig_0197.png": {
+    "type": "scatter plot",
+    "confidence": 0.99,
+    "description": "A scatter plot showing accuracy versus corpus size (GiB) with different colored points representing regions or datasets."
+  },
+  "test_fig_0198.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing test case pass rates for different expected labels and model types."
+  },
+  "test_fig_0199.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 153.00 MiB is free. Including non-PyTorch memory, this process has 17.80 GiB memory in use. Of the allocated memory 17.27 GiB is allocated by PyTorch, and 376.16 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0200.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing test case pass rates across different expected labels and models."
+  },
+  "test_fig_0201.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 35.00 MiB is free. Including non-PyTorch memory, this process has 17.92 GiB memory in use. Of the allocated memory 17.31 GiB is allocated by PyTorch, and 454.70 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0202.png": {
+    "type": "scatter plot",
+    "confidence": 0.99,
+    "description": "A scatter plot showing test case pass rates for different expected labels and models."
+  },
+  "test_fig_0203.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 65.00 MiB is free. Including non-PyTorch memory, this process has 17.89 GiB memory in use. Of the allocated memory 17.31 GiB is allocated by PyTorch, and 425.99 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0204.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing test case pass rates across different expected labels and models."
+  },
+  "test_fig_0205.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 123.00 MiB is free. Including non-PyTorch memory, this process has 17.83 GiB memory in use. Of the allocated memory 17.16 GiB is allocated by PyTorch, and 519.55 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0206.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot showing test percentages for different drugs across four categories, with each point representing a test result."
+  },
+  "test_fig_0207.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 1.09 GiB is free. Including non-PyTorch memory, this process has 16.86 GiB memory in use. Of the allocated memory 15.64 GiB is allocated by PyTorch, and 1.06 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0208.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying sensitivity scores across different GLUE datasets using three colored bars per dataset."
+  },
+  "test_fig_0209.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying sensitivity scores across different GLUE datasets using three colored bars per dataset."
+  },
+  "test_fig_0210.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "The figure displays two grouped bar charts comparing different datasets and query types using stacked bars."
+  },
+  "test_fig_0211.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "The figure displays grouped bar charts with stacked segments, comparing different datasets and query types across two subplots."
+  },
+  "test_fig_0214.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying F1 scores across different distance intervals."
+  },
+  "test_fig_0215.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying F1 scores across different distance intervals."
+  },
+  "test_fig_0220.png": {
+    "type": "box plot",
+    "confidence": 0.98,
+    "description": "The figure displays violin plots, which are a type of box plot that also shows the kernel density estimation of the data at different values."
+  },
+  "test_fig_0221.png": {
+    "type": "box plot",
+    "confidence": 0.98,
+    "description": "The figure displays box plots for different models across two tasks, showing distribution of performance metrics with median lines and interquartile ranges."
+  },
+  "test_fig_0222.png": {
+    "type": "violin plot",
+    "confidence": 0.98,
+    "description": "The figure displays violin plots showing the distribution of performance metrics (AUROC and F1) for different models across two tasks."
+  },
+  "test_fig_0223.png": {
+    "type": "box plot",
+    "confidence": 0.95,
+    "description": "The figure displays violin plots with box plots overlaid, showing distributions of performance metrics for different models across two tasks."
+  },
+  "test_fig_0226.png": {
+    "type": "box plot",
+    "confidence": 0.95,
+    "description": "The figure displays violin plots, which are a type of box plot that also shows the distribution of data at different levels."
+  },
+  "test_fig_0227.png": {
+    "type": "box plot",
+    "confidence": 0.95,
+    "description": "The figure displays violin plots, which are a type of box plot that also shows the distribution of data at different values."
+  },
+  "test_fig_0228.png": {
+    "type": "box plot",
+    "confidence": 0.98,
+    "description": "The figure displays violin plots, which are a type of box plot that also shows the distribution of data at different levels."
+  },
+  "test_fig_0229.png": {
+    "type": "box plot",
+    "confidence": 0.95,
+    "description": "The figure displays box plots for two different metrics (Δ AUROC and Δ F1) across multiple experts, comparing performance based on familiarity with LLMs."
+  },
+  "test_fig_0232.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing multiple metrics over epochs with two y-axes."
+  },
+  "test_fig_0236.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying multiple data series over epochs with two y-axes."
+  },
+  "test_fig_0240.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying accuracy scores for different warmup strategies."
+  },
+  "test_fig_0242.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying multiple metrics over epochs with two y-axes."
+  },
+  "test_fig_0245.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing cumulative distribution of predicted label indices for two models across four different datasets."
+  },
+  "test_fig_0246.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "The figure displays multiple line charts with shaded error regions, plotting performance metrics over steps for different datasets and configurations."
+  },
+  "test_fig_0249.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart showing the average proportion of nonfactual sentences for different datasets (news, BillSum, PubMed) across two models (Flan T5, GPT 3.5)."
+  },
+  "test_fig_0252.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying accuracy scores for different warmup strategies."
+  },
+  "test_fig_0253.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart showing the average proportion of nonfactual sentences for different models (GPT 3.5 and Flan T5) across three datasets (PubMed, BillSum, news)."
+  },
+  "test_fig_0256.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 286.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 151.00 MiB is free. Including non-PyTorch memory, this process has 17.80 GiB memory in use. Of the allocated memory 17.38 GiB is allocated by PyTorch, and 271.41 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0257.png": {
+    "type": "bar chart",
+    "confidence": 0.95,
+    "description": "The figure primarily displays a bar chart with error bars, showing proportions for different categories, alongside a pie chart for the same categories."
+  },
+  "test_fig_0258.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "The figure displays multiple bar charts comparing accuracy across different models and tasks."
+  },
+  "test_fig_0259.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing a trend with red diamond markers connected by a red line on a grid background."
+  },
+  "test_fig_0260.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot displaying data points with trend lines and correlation coefficients."
+  },
+  "test_fig_0263.png": {
+    "type": "radar chart",
+    "confidence": 1.0,
+    "description": "A radar chart displaying performance metrics across four categories for three different models."
+  },
+  "test_fig_0265.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying two sets of bars for each category, comparing 'RQA Fails' and 'RQA Succeeds' across 'Number' and 'Number + Text' conditions."
+  },
+  "test_fig_0267.png": {
+    "type": "radar chart",
+    "confidence": 1.0,
+    "description": "A radar chart displaying performance metrics for two datasets across four categories."
+  },
+  "test_fig_0268.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart comparing score accuracy percentages for different models using two categories: ICL and CoT+ICL."
+  },
+  "test_fig_0269.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "The figure displays two bar charts comparing 'RQA Fails' and 'RQA Succeeds' across two categories using bars of different heights and colors."
+  },
+  "test_fig_0271.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "The figure displays two bar charts comparing token count and question difficulty for different RQA outcomes."
+  },
+  "test_fig_0278.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing accuracy values plotted against the number of knowledge statements."
+  },
+  "test_fig_0279.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "The figure displays two bar charts comparing token count and question difficulty for different conditions using colored bars."
+  },
+  "test_fig_0280.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 286.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 35.00 MiB is free. Including non-PyTorch memory, this process has 17.92 GiB memory in use. Of the allocated memory 17.52 GiB is allocated by PyTorch, and 244.01 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0282.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A horizontal bar chart comparing two categories (Unseen and Seen) across multiple models."
+  },
+  "test_fig_0284.png": {
+    "type": "pie chart",
+    "confidence": 0.99,
+    "description": "A circular chart divided into slices representing proportions of different grammatical errors."
+  },
+  "test_fig_0285.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying two sets of data (Character and Textual Value) across different models and benchmarks using grouped bars."
+  },
+  "test_fig_0287.png": {
+    "type": "pie chart",
+    "confidence": 0.98,
+    "description": "A circular chart divided into slices showing proportions of different linguistic error types."
+  },
+  "test_fig_0289.png": {
+    "type": "scatter plot",
+    "confidence": 0.98,
+    "description": "A scatter plot displaying data points with trend lines and correlation coefficients, showing relationships between variables."
+  },
+  "test_fig_0291.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays multiple line plots with data points, showing accuracy trends across different languages and models."
+  },
+  "test_fig_0292.png": {
+    "type": "histogram",
+    "confidence": 0.98,
+    "description": "A histogram showing the distribution of ρ values with a red vertical line indicating a specific t-value for two different methods."
+  },
+  "test_fig_0301.png": {
+    "type": "other",
+    "confidence": 1.0,
+    "description": "The figure is a density plot with overlapping filled areas representing proportions, not a standard chart type."
+  },
+  "test_fig_0304.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying multiple lines representing different dimensions over a range, with a legend indicating the dimension values."
+  },
+  "test_fig_0305.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying enzyme activity levels (ALT and AST) across different treatment groups with error bars and statistical significance markers."
+  },
+  "test_fig_0306.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying enzyme levels (ALT and AST) across three experimental groups with error bars and statistical significance markers."
+  },
+  "test_fig_0307.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying enzyme levels (ALT and AST) across three treatment groups with error bars and statistical significance markers."
+  },
+  "test_fig_0308.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying enzyme activity levels (ALT and AST) across three experimental groups with error bars and statistical significance markers."
+  },
+  "test_fig_0309.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying metabolic rates and total CYP450 amounts across different conditions."
+  },
+  "test_fig_0310.png": {
+    "type": "bar chart",
+    "confidence": 0.95,
+    "description": "The figure contains three bar charts (A, C) and one line chart (B), but since the question asks for exactly one category and bar charts are the dominant visual type, it is classified as a bar chart."
+  },
+  "test_fig_0311.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 248.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.08 GiB is allocated by PyTorch, and 563.52 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0312.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 248.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.24 GiB is allocated by PyTorch, and 398.52 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0313.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.17 GiB is allocated by PyTorch, and 473.28 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0314.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.17 GiB is allocated by PyTorch, and 473.28 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0315.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.17 GiB is allocated by PyTorch, and 473.28 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0316.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.17 GiB is allocated by PyTorch, and 473.28 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0323.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 248.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.24 GiB is allocated by PyTorch, and 398.52 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0324.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 248.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.24 GiB is allocated by PyTorch, and 398.52 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0325.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 218.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 439.48 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0326.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 218.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 439.48 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0327.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 16.14 GiB is allocated by PyTorch, and 1.50 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0328.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 16.14 GiB is allocated by PyTorch, and 1.50 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0329.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 198.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 443.46 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0330.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 198.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 443.46 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0331.png": {
+    "type": "heatmap",
+    "confidence": 1.0,
+    "description": "A heatmap displaying row Z-score GSVA scores across different cell types and biological pathways."
+  },
+  "test_fig_0332.png": {
+    "type": "heatmap",
+    "confidence": 0.99,
+    "description": "A heatmap displaying row Z-score GSVA scores across different cell types and biological pathways."
+  },
+  "test_fig_0333.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.17 GiB is allocated by PyTorch, and 475.23 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0334.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.17 GiB is allocated by PyTorch, and 475.23 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0335.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.17 GiB is allocated by PyTorch, and 475.23 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0336.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.17 GiB is allocated by PyTorch, and 475.23 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0337.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 206.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.13 GiB is allocated by PyTorch, and 508.58 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0338.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 206.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 161.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.13 GiB is allocated by PyTorch, and 508.58 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0339.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying motility parameters of sperm over 2 hours and 4 hours under blank and EVs conditions."
+  },
+  "test_fig_0340.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying motility parameters of sperm over 2 hours and 4 hours for Blank and EVs conditions, with 'ns' indicating no significant difference between groups."
+  },
+  "test_fig_0341.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart showing the percentage of sperm capacitation across three groups (A, B, C) with error bars and statistical significance markers."
+  },
+  "test_fig_0342.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying the percentage of sperm capacitation across three categories (A, B, C) with error bars."
+  },
+  "test_fig_0343.png": {
+    "type": "bar chart",
+    "confidence": 0.95,
+    "description": "The figure contains a bar chart (Panel A) comparing adaptation index percentages between 'Grouping' and 'No-grouping' conditions, alongside a line chart (Panel B) showing perceived numerosity versus actual numerosity with different data series."
+  },
+  "test_fig_0344.png": {
+    "type": "bar chart",
+    "confidence": 0.95,
+    "description": "A bar chart displaying adaptation index percentages for 'Grouping' and 'No-grouping' conditions."
+  },
+  "test_fig_0345.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying two sets of data (G and NG) across two adaptation levels (High and Low) with error bars."
+  },
+  "test_fig_0346.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying two different metrics (coefficient of variation and reaction time) across two adaptation levels for two groups (G and NG)."
+  },
+  "test_fig_0347.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 865.00 MiB is free. Including non-PyTorch memory, this process has 17.11 GiB memory in use. Of the allocated memory 15.94 GiB is allocated by PyTorch, and 1.01 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0348.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 865.00 MiB is free. Including non-PyTorch memory, this process has 17.11 GiB memory in use. Of the allocated memory 15.94 GiB is allocated by PyTorch, and 1.01 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0349.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 865.00 MiB is free. Including non-PyTorch memory, this process has 17.11 GiB memory in use. Of the allocated memory 15.94 GiB is allocated by PyTorch, and 1.01 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0350.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 865.00 MiB is free. Including non-PyTorch memory, this process has 17.11 GiB memory in use. Of the allocated memory 15.94 GiB is allocated by PyTorch, and 1.01 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0351.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 865.00 MiB is free. Including non-PyTorch memory, this process has 17.11 GiB memory in use. Of the allocated memory 15.52 GiB is allocated by PyTorch, and 1.43 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0352.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 865.00 MiB is free. Including non-PyTorch memory, this process has 17.11 GiB memory in use. Of the allocated memory 15.52 GiB is allocated by PyTorch, and 1.43 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0353.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 865.00 MiB is free. Including non-PyTorch memory, this process has 17.11 GiB memory in use. Of the allocated memory 15.52 GiB is allocated by PyTorch, and 1.43 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0354.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 865.00 MiB is free. Including non-PyTorch memory, this process has 17.11 GiB memory in use. Of the allocated memory 15.52 GiB is allocated by PyTorch, and 1.43 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0355.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart comparing percentages of different elements between two species using grouped bars."
+  },
+  "test_fig_0356.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart comparing the percentages of different elements (Mn, Zn, Cu, Cr, Pb, Cd, Fe, Ni, Co) for two species (O.nilotic and L.nilotic) using blue and red bars respectively."
+  },
+  "test_fig_0357.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "A line chart showing OD (675 nm) over incubation time for different concentrations of Cystatin C, with asterisks indicating statistical significance."
+  },
+  "test_fig_0358.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "The figure displays multiple lines plotting OD (675 nm) against incubation time for different concentrations, indicating a time-series experiment."
+  },
+  "test_fig_0359.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 165.00 MiB is free. Including non-PyTorch memory, this process has 17.79 GiB memory in use. Of the allocated memory 17.18 GiB is allocated by PyTorch, and 453.72 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0360.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 37.00 MiB is free. Including non-PyTorch memory, this process has 17.92 GiB memory in use. Of the allocated memory 17.18 GiB is allocated by PyTorch, and 581.72 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0361.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 37.00 MiB is free. Including non-PyTorch memory, this process has 17.92 GiB memory in use. Of the allocated memory 17.18 GiB is allocated by PyTorch, and 581.72 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0362.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 37.00 MiB is free. Including non-PyTorch memory, this process has 17.92 GiB memory in use. Of the allocated memory 17.18 GiB is allocated by PyTorch, and 581.72 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0363.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "The figure displays two line charts (A and B) showing data over time, with chart A using bars and chart B using lines with markers."
+  },
+  "test_fig_0364.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "The figure displays two line charts (A and B) plotting data over time, with bars in chart A and lines with markers in chart B, indicating trends in atrophied specimens and cumulative mortality respectively."
+  },
+  "test_fig_0365.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "The figure displays two line charts (A and B) plotting data over time, with one chart showing bar-like data points and the other showing continuous lines with markers."
+  },
+  "test_fig_0366.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "The figure displays two line charts (A and B) plotting data over time, with bars in chart A and lines with markers in chart B."
+  },
+  "test_fig_0367.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "A scatter plot showing copy numbers per pearl oyster over days after infection, with error bars indicating variability."
+  },
+  "test_fig_0368.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "A scatter plot showing copy numbers per pearl oyster over days after infection, with error bars indicating variability."
+  },
+  "test_fig_0369.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "A scatter plot showing copy numbers per pearl oyster over days after infection, with error bars indicating variability."
+  },
+  "test_fig_0370.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "A scatter plot showing copy numbers per pearl oyster over days after infection with data points and error bars."
+  },
+  "test_fig_0371.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "The figure displays scatter plots with overlaid trend lines showing reaction times across epochs for different identity conditions."
+  },
+  "test_fig_0372.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "The figure displays scatter plots with overlaid trend lines showing reaction times across epochs for different identity conditions."
+  },
+  "test_fig_0373.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "The figure displays scatter plots with overlaid trend lines, showing reaction times across epochs for different identity conditions."
+  },
+  "test_fig_0374.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "The figure displays scatter plots with overlaid lines, showing reaction times across epochs for repeated and novel conditions under consistent and changing identity conditions."
+  },
+  "test_fig_0375.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "The figure primarily displays scatter plots with overlaid trend lines, showing reaction times across epochs and test conditions."
+  },
+  "test_fig_0376.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "The figure displays scatter plots with overlaid mean lines and error bars, showing reaction times across different epochs and conditions."
+  },
+  "test_fig_0377.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "The figure displays scatter plots with overlaid trend lines showing reaction times across epochs and test conditions, with additional bar charts summarizing differences."
+  },
+  "test_fig_0378.png": {
+    "type": "scatter plot",
+    "confidence": 0.95,
+    "description": "The figure primarily displays scatter plots with overlaid trend lines, showing reaction times across epochs and test conditions."
+  },
+  "test_fig_0379.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "The figure displays grouped bar charts comparing relative abundances across different bacterial taxa under three conditions (Anaerobic, Clinical, Normoxia) in both subplots A and B."
+  },
+  "test_fig_0380.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "The figure displays two bar charts: one stacked bar chart (A) showing relative abundance percentages across categories, and one grouped bar chart (B) comparing relative abundance across conditions."
+  },
+  "test_fig_0381.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories over three time points."
+  },
+  "test_fig_0382.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories over three time points."
+  },
+  "test_fig_0383.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories at three time points."
+  },
+  "test_fig_0384.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories at three time points."
+  },
+  "test_fig_0385.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories at three time points."
+  },
+  "test_fig_0386.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories over three time points."
+  },
+  "test_fig_0387.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories over three time points."
+  },
+  "test_fig_0388.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different dietary categories over time."
+  },
+  "test_fig_0389.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories at three time points."
+  },
+  "test_fig_0390.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories over three time points."
+  },
+  "test_fig_0391.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories over three time points."
+  },
+  "test_fig_0392.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories at three time points."
+  },
+  "test_fig_0393.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart showing average physical activity duration over time for different exercise intensities."
+  },
+  "test_fig_0394.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying average physical activity duration across different exercise intensities and time points."
+  },
+  "test_fig_0395.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying average physical activity duration over time for different exercise intensities."
+  },
+  "test_fig_0396.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart showing average physical activity duration by exercise intensity and time point."
+  },
+  "test_fig_0398.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying two sets of data (G and NG) across two adaptation levels (High and Low) with error bars and statistical significance markers."
+  },
+  "test_fig_0399.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing OD (675 nm) over incubation time for different concentrations of Cystatin C, with asterisks indicating statistical significance."
+  },
+  "test_fig_0400.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "The figure displays multiple bars for different bacterial taxa across three conditions, with relative abundance on the y-axis."
+  },
+  "test_fig_0402.png": {
+    "type": "other",
+    "confidence": 1.0,
+    "description": "The figure is a composite of multiple distinct plots including box plots, heatmaps, survival curves, and consensus CDF plots, making it a complex multi-panel figure that does not fit into a single standard chart category."
+  },
+  "test_fig_0403.png": {
+    "type": "other",
+    "confidence": 1.0,
+    "description": "The figure is a composite of multiple distinct plots showing various types of data, including hazard ratios, mutation profiles, CNV distributions, gene expression box plots, CDF curves, clustering heatmaps, survival curves, and expression heatmaps, making it not fit into a single standard chart type."
+  },
+  "test_fig_0404.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "The figure displays grouped bar charts comparing relative abundances across different conditions and bacterial taxa."
+  },
+  "test_fig_0405.png": {
+    "type": "other",
+    "confidence": 1.0,
+    "description": "The figure contains multiple distinct plot types including box plots, heatmaps, survival curves, and consensus CDF plots, making it a composite figure that does not fit into a single category."
+  },
+  "test_fig_0406.png": {
+    "type": "other",
+    "confidence": 0.98,
+    "description": "The figure is a composite of multiple distinct plots including survival analysis, mutation profiles, expression distributions, and clustering heatmaps, making it a complex multi-panel scientific figure."
+  },
+  "test_fig_0407.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "The figure displays multiple lines representing different concentrations over time, with error bars and asterisks indicating statistical significance."
+  },
+  "test_fig_0408.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentages for different antibiotic classes (S, I, R) across various antibiotics."
+  },
+  "test_fig_0409.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "The figure displays comparative relative abundances of bacterial taxa across different conditions using vertical bars."
+  },
+  "test_fig_0410.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentages for different categories in two separate panels."
+  },
+  "test_fig_0411.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying two sets of data (G and NG) across two adaptation levels (High and Low) with error bars."
+  },
+  "test_fig_0412.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 811.00 MiB is free. Including non-PyTorch memory, this process has 17.16 GiB memory in use. Of the allocated memory 15.97 GiB is allocated by PyTorch, and 1.03 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0413.png": {
+    "type": "heatmap",
+    "confidence": 0.95,
+    "description": "A heatmap displaying classification performance with color-coded values in a grid format."
+  },
+  "test_fig_0414.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 234.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 183.00 MiB is free. Including non-PyTorch memory, this process has 17.77 GiB memory in use. Of the allocated memory 17.26 GiB is allocated by PyTorch, and 360.08 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0415.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 533.00 MiB is free. Including non-PyTorch memory, this process has 17.43 GiB memory in use. Of the allocated memory 15.89 GiB is allocated by PyTorch, and 1.38 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0417.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 771.00 MiB is free. Including non-PyTorch memory, this process has 17.20 GiB memory in use. Of the allocated memory 16.02 GiB is allocated by PyTorch, and 1.01 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0420.png": {
+    "type": "box plot",
+    "confidence": 0.98,
+    "description": "The figure displays multiple box plots showing the distribution of relative abundance across different bacterial characteristics and sample groups."
+  },
+  "test_fig_0421.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 17.30 GiB is allocated by PyTorch, and 419.18 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0422.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 198.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 522.81 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0424.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 204.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 17.28 GiB is allocated by PyTorch, and 435.27 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0425.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 198.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 522.81 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0426.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 246.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 137.00 MiB is free. Including non-PyTorch memory, this process has 17.82 GiB memory in use. Of the allocated memory 17.30 GiB is allocated by PyTorch, and 361.23 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0427.png": {
+    "type": "box plot",
+    "confidence": 0.95,
+    "description": "The figure displays box plots for ACE and Chao1 indices across different groups, with statistical significance indicated by p-values."
+  },
+  "test_fig_0428.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 228.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 213.00 MiB is free. Including non-PyTorch memory, this process has 17.74 GiB memory in use. Of the allocated memory 17.12 GiB is allocated by PyTorch, and 476.06 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0430.png": {
+    "type": "heatmap",
+    "confidence": 0.98,
+    "description": "A heatmap displaying correlation coefficients between different health and well-being factors using color intensity and numerical values."
+  },
+  "test_fig_0432.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 93.00 MiB is free. Including non-PyTorch memory, this process has 17.86 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 506.73 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0433.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories at three time points."
+  },
+  "test_fig_0434.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 206.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 75.00 MiB is free. Including non-PyTorch memory, this process has 17.88 GiB memory in use. Of the allocated memory 17.13 GiB is allocated by PyTorch, and 594.58 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0435.png": {
+    "type": "heatmap",
+    "confidence": 0.95,
+    "description": "The figure displays a heatmap showing mutation frequencies across different clusters and genes, with color-coded bars indicating mutation types and sample counts."
+  },
+  "test_fig_0436.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 699.00 MiB is free. Including non-PyTorch memory, this process has 17.27 GiB memory in use. Of the allocated memory 16.06 GiB is allocated by PyTorch, and 1.04 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0437.png": {
+    "type": "box plot",
+    "confidence": 0.98,
+    "description": "The figure displays box plots showing the relative abundance of microbial traits across different sample groups."
+  },
+  "test_fig_0439.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 246.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 149.00 MiB is free. Including non-PyTorch memory, this process has 17.81 GiB memory in use. Of the allocated memory 17.14 GiB is allocated by PyTorch, and 512.86 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0440.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 149.00 MiB is free. Including non-PyTorch memory, this process has 17.81 GiB memory in use. Of the allocated memory 16.06 GiB is allocated by PyTorch, and 1.58 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0441.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying relative abundance of bacterial genera across different groups (aNEMM, aSHI, nNEMM, nSHI) with error bars indicating variability."
+  },
+  "test_fig_0442.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying relative abundance of bacterial taxa across different groups with error bars."
+  },
+  "test_fig_0445.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 212.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 35.00 MiB is free. Including non-PyTorch memory, this process has 17.92 GiB memory in use. Of the allocated memory 17.31 GiB is allocated by PyTorch, and 456.92 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0446.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 193.00 MiB is free. Including non-PyTorch memory, this process has 17.76 GiB memory in use. Of the allocated memory 16.23 GiB is allocated by PyTorch, and 1.37 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0447.png": {
+    "type": "box plot",
+    "confidence": 0.99,
+    "description": "The figure displays box plots for five different experimental groups, showing the distribution of gas production measurements."
+  },
+  "test_fig_0450.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 204.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 155.00 MiB is free. Including non-PyTorch memory, this process has 17.80 GiB memory in use. Of the allocated memory 17.15 GiB is allocated by PyTorch, and 498.13 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0452.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "The figure displays grouped bar charts showing relative abundance percentages across different bacterial taxa under various conditions."
+  },
+  "test_fig_0453.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "The figure displays grouped bar charts showing relative abundance percentages of bacterial taxa across different conditions."
+  },
+  "test_fig_0456.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart comparing percentages of known health effects of tobacco use between smokers and non-smokers."
+  },
+  "test_fig_0457.png": {
+    "type": "box plot",
+    "confidence": 0.98,
+    "description": "The figure displays box plots showing the distribution of SCFA concentrations across different groups and acids."
+  },
+  "test_fig_0458.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 240.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 516.43 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0460.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 16.06 GiB is allocated by PyTorch, and 1.65 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0461.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 218.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 17.34 GiB is allocated by PyTorch, and 375.25 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0462.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 234.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 17.26 GiB is allocated by PyTorch, and 462.72 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0463.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 16.06 GiB is allocated by PyTorch, and 1.65 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0464.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 81.00 MiB is free. Including non-PyTorch memory, this process has 17.87 GiB memory in use. Of the allocated memory 16.02 GiB is allocated by PyTorch, and 1.69 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_0465.png": {
+    "type": "box_plot",
+    "confidence": 0.98,
+    "description": "The figure displays multiple box plots showing the relative abundance of different bacterial traits across four sample groups."
+  },
+  "test_fig_0466.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying component scores of the Healthy Eating Index-2015 across different food categories at three time points."
+  },
+  "test_fig_0468.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart comparing percentages of known health effects of tobacco use between smokers and non-smokers."
+  },
+  "test_fig_0470.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying two sets of data (G and NG) across two adaptation levels (High and Low) with error bars."
+  },
+  "test_fig_0471.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 198.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 103.00 MiB is free. Including non-PyTorch memory, this process has 17.85 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 501.46 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1500.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing accuracy versus the number of members for different methods."
+  },
+  "test_fig_1501.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying multiple metrics over epochs with two y-axes."
+  },
+  "test_fig_1502.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing accuracy over steps for three different methods."
+  },
+  "test_fig_1504.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing the number of samples across different beta values for multiple algorithms."
+  },
+  "test_fig_1505.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing the linear decodability percentage over training iterations for different MLP configurations."
+  },
+  "test_fig_1506.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing accuracy values plotted against the number of knowledge statements."
+  },
+  "test_fig_1507.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying accuracy metrics for various graph neural network models as a function of chain length."
+  },
+  "test_fig_1508.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart displaying accuracy versus chain length for various graph neural network models in binary and multiclass classification tasks."
+  },
+  "test_fig_1509.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart displaying AlpacaEval Win Rate versus Alpha for different numbers of epochs."
+  },
+  "test_fig_1510.png": {
+    "type": "box_plot",
+    "confidence": 0.98,
+    "description": "The figure displays multiple box plots showing the relative abundance of different bacterial traits across four groups."
+  },
+  "test_fig_1511.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing TOP-1 Accuracy (%) on the y-axis and Percentage on the x-axis, with two lines representing 'Random Flipped Data' and 'Data Volume'."
+  },
+  "test_fig_1512.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 609.00 MiB is free. Including non-PyTorch memory, this process has 17.36 GiB memory in use. Of the allocated memory 15.97 GiB is allocated by PyTorch, and 1.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1513.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 213.00 MiB is free. Including non-PyTorch memory, this process has 17.74 GiB memory in use. Of the allocated memory 16.23 GiB is allocated by PyTorch, and 1.35 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1514.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing NWER values across different model parameter counts and model families with two perturbation types."
+  },
+  "test_fig_1515.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing OD (675 nm) over incubation time for different concentrations of Cystatin C, with asterisks indicating statistical significance."
+  },
+  "test_fig_1516.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying two sets of data (NG and G) across two adaptation levels (High and Low) with error bars."
+  },
+  "test_fig_1517.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "The figure displays comparative relative abundances of bacterial taxa across three conditions using vertical bars, with error bars indicating variability."
+  },
+  "test_fig_1518.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 198.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 123.00 MiB is free. Including non-PyTorch memory, this process has 17.83 GiB memory in use. Of the allocated memory 17.20 GiB is allocated by PyTorch, and 481.46 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1519.png": {
+    "type": "radar chart",
+    "confidence": 1.0,
+    "description": "A radar chart displaying performance metrics for three models across four categories."
+  },
+  "test_fig_1520.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing average extractor accuracy over epochs for different training and testing conditions."
+  },
+  "test_fig_1521.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing accuracy percentages against the number of members for different methods."
+  },
+  "test_fig_1522.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays multiple lines plotting test accuracy, test error, and gradient error against various parameters like number of blocks, training epochs, and depth."
+  },
+  "test_fig_1523.png": {
+    "type": "line chart",
+    "confidence": 0.95,
+    "description": "The figure displays multiple lines representing different concentrations over time, with error bars and asterisks indicating statistical significance."
+  },
+  "test_fig_1524.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing cumulative reward over different DA values with labeled data points."
+  },
+  "test_fig_1525.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing ROUGE scores across different Alpha values for four methods."
+  },
+  "test_fig_1526.png": {
+    "type": "bar chart",
+    "confidence": 0.95,
+    "description": "The figure displays a bar chart with error bars, showing proportions for different categories, alongside a pie chart."
+  },
+  "test_fig_1527.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 240.00 MiB. GPU 0 has a total capacity of 20.00 GiB of which 191.00 MiB is free. Including non-PyTorch memory, this process has 17.76 GiB memory in use. Of the allocated memory 17.13 GiB is allocated by PyTorch, and 487.11 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1528.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A bar chart displaying accuracy scores for different exemplar selection strategies with two data series."
+  },
+  "test_fig_1529.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentage data for different antibiotics across two categories (S, I, R) using colored bars."
+  },
+  "test_fig_1530.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 67.00 MiB is free. Including non-PyTorch memory, this process has 17.89 GiB memory in use. Of the allocated memory 16.02 GiB is allocated by PyTorch, and 1.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1531.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying percentages across different categories in two separate panels."
+  },
+  "test_fig_1532.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing KL-divergence values plotted against the number of members for two different methods."
+  },
+  "test_fig_1533.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 1.06 GiB is free. Including non-PyTorch memory, this process has 16.89 GiB memory in use. Of the allocated memory 15.95 GiB is allocated by PyTorch, and 795.81 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1534.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying RMSE values against the number of acquisitions for different methods."
+  },
+  "test_fig_1535.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "The figure displays multiple lines plotting test accuracy, test error over training epochs, and gradient error against depth, characteristic of line charts."
+  },
+  "test_fig_1536.png": {
+    "type": "radar chart",
+    "confidence": 1.0,
+    "description": "A radar chart displaying performance metrics for three models across four categories."
+  },
+  "test_fig_1537.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 609.00 MiB is free. Including non-PyTorch memory, this process has 17.36 GiB memory in use. Of the allocated memory 16.02 GiB is allocated by PyTorch, and 1.17 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1538.png": {
+    "type": "bar chart",
+    "confidence": 0.98,
+    "description": "A bar chart displaying two sets of values for three models (Gemma, Mistral, ChatGPT) and two benchmarks (BBH, MMLU), with bars colored to represent 'Character' and 'Textual Value'."
+  },
+  "test_fig_1539.png": {
+    "type": "line chart",
+    "confidence": 0.98,
+    "description": "A line chart showing accuracy of various graph neural network models as a function of chain length."
+  },
+  "test_fig_1540.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 609.00 MiB is free. Including non-PyTorch memory, this process has 17.36 GiB memory in use. Of the allocated memory 16.02 GiB is allocated by PyTorch, and 1.17 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1543.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A horizontal bar chart comparing two categories (Unseen and Seen) across multiple models using color-coded bars."
+  },
+  "test_fig_1544.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart displaying accuracy across different graph neural network models as a function of chain length."
+  },
+  "test_fig_1545.png": {
+    "type": "heatmap",
+    "confidence": 0.95,
+    "description": "The figure displays a heatmap with color-coded data representing mutation frequencies across different clusters and genes."
+  },
+  "test_fig_1546.png": {
+    "type": "box plot",
+    "confidence": 0.95,
+    "description": "The figure displays box plots showing the distribution of SCFAs across different groups and acids, with individual data points overlaid."
+  },
+  "test_fig_1547.png": {
+    "type": "line chart",
+    "confidence": 0.99,
+    "description": "A line chart showing the average dynamic halting step decreasing as the number of operators increases."
+  },
+  "test_fig_1548.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "The figure displays multiple bar charts comparing accuracy scores across different models and tasks."
+  },
+  "test_fig_1549.png": {
+    "type": "line chart",
+    "confidence": 1.0,
+    "description": "A line chart showing rewards over timesteps for three different methods."
+  },
+  "test_fig_1550.png": {
+    "type": "error",
+    "description": "CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 20.00 GiB of which 609.00 MiB is free. Including non-PyTorch memory, this process has 17.36 GiB memory in use. Of the allocated memory 15.95 GiB is allocated by PyTorch, and 1.24 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "test_fig_1551.png": {
+    "type": "other",
+    "confidence": 1.0,
+    "description": "The figure contains multiple components including a ROC curve, a confusion matrix, and annotated histology images, making it a composite figure that does not fit into a single standard chart type."
+  },
+  "test_fig_1552.png": {
+    "type": "bar chart",
+    "confidence": 0.99,
+    "description": "A stacked bar chart showing forward and backward time for different methods."
+  },
+  "test_fig_1553.png": {
+    "type": "bar chart",
+    "confidence": 1.0,
+    "description": "A bar chart displaying score accuracy percentages for different models using two categories."
+  }
+}

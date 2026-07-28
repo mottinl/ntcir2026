@@ -1,0 +1,103 @@
+# SciClaimEval Shared Task: Dataset Information
+
+## Subtask 1: Claim Label Prediction Task
+Each sample includes the following information:
+
+- ```paper_id```: the ID of the paper; it can be an arXiv ID or a PeerJ ID
+- ```claim_id```: the ID of the claim
+- ```claim```: the claim for which the label needs to be predicted
+- ```label```: there are two labels in our dataset: Supported and Refuted
+- ```caption```: the caption of the evidence file
+- ```evi_type```: the type of the evidence file, it can be **table** or **figure**
+- ```evi_path```: the path to the evidence file; for the table evidence, we use the path to the PNG version
+- ```evi_path_original```: this is only available for samples that use a table as evidence: the original path to the table, which can be a .tex or .html file
+- ```context```: the preceding sentences from the same paragraph, provided as a short contextual field for each claim sentence
+- ```domain```: three domains, ML, NLP, and PeerJ (medical domain)
+- ```use_context```: **No** (the claim is understandable without context), **Yes** (short context is needed; information is taken from the context field), or **Other sources** (the full paper is needed to understand the claim)
+- ```operation```: how the evidence is modified to obtain the modified evidence that pairs with the same claim to create a refuted sample
+- ```paper_path```: the path to the paper
+- ```detail_others```: if the operation is **Others**, a description is provided here
+- ```claim_id_pair```: one claim is paired with two pieces of evidence, creating two labels: Supported and Refuted
+- ```license_url```: the license information for this sample
+- ```license_name```: the license information for this sample
+
+Please refer to the file [task1_ground_truth](https://github.com/SciClaimEval/sciclaimeval-shared-task/blob/main/examples/task1_ground_truth.json) for an example.
+
+
+Please prepare your prediction file following the format in [task1_pred_format](https://github.com/SciClaimEval/sciclaimeval-shared-task/blob/main/examples/task1_pred_format.json).
+
+
+
+## Subtask 2: Claim Evidence Prediction Task
+In addition to the fields used in the first subtask, the second subtask includes the following new field:
+
+- ```sample_id```: the ID of the sample
+- ```question```: all samples in the second subtask use the same question:
+```Which piece of evidence supports the claim? Only return the evidence ID (for example, evidence_id_1 or evidence_id_2).```
+This question asks the model to predict the evidence file that supports the claim. Please follow the provided format when answering
+- ```evidence_id_1```: the path to the first evidence file
+- ```evidence_id_2```: the path to the second evidence file
+
+- Please refer to the file [task2_ground_truth](https://github.com/SciClaimEval/sciclaimeval-shared-task/blob/main/examples/task2_ground_truth.json) for an example.
+
+
+- Please prepare your prediction file following the format in [task2_pred_format](https://github.com/SciClaimEval/sciclaimeval-shared-task/blob/main/examples/task2_pred_format.json).
+
+
+
+## Information about the Test Set:
+
+- You will receive the input for the test set, but the gold labels are not available.
+Please refer to the file [task1_test_input.json](https://github.com/SciClaimEval/sciclaimeval-shared-task/blob/main/examples/task1_test_input.json) for an example; the following keys are missing: label, operation, detail_others, and claim_id_pair.
+
+- [task2_test_input.json](https://github.com/SciClaimEval/sciclaimeval-shared-task/blob/main/examples/task2_test_input.json) is the test input example for the second task.
+
+
+
+## Evaluation
+### Run both tasks (default)
+```bash
+python3 run_eval.py
+```
+
+### Run only Task 1
+```bash
+python3 run_eval.py --task task1
+```
+
+### Run only Task 2
+```bash
+python3 run_eval.py --task task2
+```
+
+### Use custom file paths
+```bash
+python3 run_eval.py --task task1 --ground_truth_task1 path/to/gt.json --pred_task1 path/to/pred.json
+```
+
+
+
+## Reproduce Results
+### Task 1: Claim Label Prediction Task
+
+Please download our prediction files [here](https://www.dropbox.com/scl/fi/y92n8aiaf52ypye5mqjru/outputs_task1.zip?rlkey=bf8qf7k19sl6w3ocuo80hwkq1&st=8cxzhi68&dl=0).
+
+Then run the following code:
+
+```bash
+python3 reproduce_all_models_task1.py
+```
+
+### Task 2: Claim Evidence Prediction Task
+
+Please download our prediction files [here](https://www.dropbox.com/scl/fi/8clm6ha0qc7zbx30f1m0l/outputs_task2.zip?rlkey=uxrw1xqidz789lx6amuy0glu5&st=i765heef&dl=0).
+
+Then run the following code:
+
+```bash
+python3 reproduce_all_models_task2.py
+```
+
+## Note on License Information
+The dataset is licensed under CC BY 4.0; however, individual samples may have their own licenses.
+

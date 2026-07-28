@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments -- the shared repo-root .venv, plus isolated
+# per-dependency venvs used where a package's pinned native deps conflict
+# with the shared venv's torch build (pipeline_advisors/.venv-paddleocr,
+# analysis/.venv_figan -- see their respective READMEs/docstrings for why).
+.venv*
+
+# Local dataset/output symlinks -- point outside the repo to wherever the
+# SciClaimEval dev/test splits were downloaded, and to this machine's local
+# scratch output dirs, see evaluation_pipeline/README.md.
+evaluation_pipeline/data/
+evaluation_pipeline/eval/data/
+evaluation_pipeline/eval/outputs_task1
+evaluation_pipeline/eval/outputs_task2
+
+# Run logs (regenerable by re-running the corresponding script; not needed
+# for reproducibility -- the outputs they produced are what's kept)
+*.log

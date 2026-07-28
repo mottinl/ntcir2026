@@ -1,0 +1,13 @@
+
+==================================================
+Evaluating Task 1
+==================================================
+
+Individual scores: {'precision': '80.78', 'recall': '80.75', 'macro_f1': '80.45', 'accuracy': '80.46', 'confusion_matrix': [[302, 50], [96, 299]]}
+Pair scores: {'pair_accuracy': '65.34', 'correct_pairs': '230', 'total_pairs': '352'}
+
+==================================================
+Evaluating Task 2
+==================================================
+
+Task 2 scores: {'accuracy': '67.61', 'correct': '238', 'total': '352'}

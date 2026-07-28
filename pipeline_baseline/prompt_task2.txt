@@ -1,0 +1,62 @@
+# Task2 (evidence selection) prompts. Two variants, routed by evi_type in
+# predict_task2.py's build_prompt(): TASK2_FIGURE_PROMPT_TEMPLATE when
+# evi_type == "figure", TASK2_GENERIC_PROMPT_TEMPLATE otherwise (tables and
+# anything else). Both take the same format fields: {claim}, {caption},
+# {context}, {evi_type}. Mirrors prompt.txt's convention for task1 (exec'd as
+# plain Python, not imported -- this stays the single place these prompts get
+# edited/iterated on).
+
+TASK2_GENERIC_PROMPT_TEMPLATE = """\
+You are given TWO images, labelled image 1 and image 2. Each shows a table or figure from a \
+scientific paper. Exactly one of them provides evidence that supports the claim below.
+
+Claim:
+{claim}
+
+Caption:
+{caption}
+
+Context:
+{context}
+
+Decide which image supports the claim using this procedure:
+1. Identify the exact quantity the claim asserts — which value(s), which row/column or series, \
+which comparison, ordering, or trend.
+2. Read that quantity from IMAGE 1 and state it explicitly.
+3. Read the same quantity from IMAGE 2 and state it explicitly.
+4. Compare each reading against the claim and decide which image's data is consistent with it. \
+Absence of a detail is not a conflict; only an actual contradiction of a plotted value, \
+ordering, or relationship rules an image out.
+Reason step by step, then conclude by stating exactly: 'Therefore, the final answer is: Answer: $N' \
+(without quotes), where $N is either 1 or 2.
+"""
+
+TASK2_FIGURE_PROMPT_TEMPLATE = """\
+You are given TWO images, labelled image 1 and image 2. Each is a figure (chart or plot) from a \
+scientific paper. Exactly one of them provides evidence that supports the claim below.
+
+Claim:
+{claim}
+
+Caption:
+{caption}
+
+Context:
+{context}
+
+Charts are easy to misread, so read each image CAREFULLY and on its own terms. You must choose \
+exactly one.
+1. Identify the exact thing the claim asserts — which series or method, which category or x-value, \
+and the specific value, comparison, ordering, or trend it hinges on.
+2. For IMAGE 1: find which plotted element (curve, bar, point) the legend and axis labels assign to \
+the series/category the claim is about; then read that element's value, its position, and the \
+direction/order of its trend. State whether that labelled element actually has the property the \
+claim asserts.
+3. For IMAGE 2: do the same, independently.
+4. Choose the image whose reading of that value/label/ordering is consistent with the claim. If at \
+first both seem consistent, look again — in each image — at the precise value, at which label each \
+plotted element carries, and at the direction/order of the data, and pick the image that genuinely \
+matches the claim.
+Reason step by step, then conclude by stating exactly: 'Therefore, the final answer is: Answer: $N' \
+(without quotes), where $N is either 1 or 2.
+"""

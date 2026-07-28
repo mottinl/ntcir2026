@@ -1,0 +1,129 @@
+# "Rec-3" variant: a prior version ("rec2") added six guardrails (A-F) to
+# stop the model from refuting claims on cosmetic grounds, but an error audit
+# found this also introduced new true-positive -> false-negative regressions
+# (over-refusal). Each guardrail below adds scope conditions narrowing its
+# trigger without weakening its core refutation (reversed direction, wrong
+# exact number at the named intersection, genuine in-set universal
+# counterexample still refute), so it recovers over-refused true claims
+# without reopening the false-positive leak the guardrails were added for.
+REC3_USER_PROMPT_TEMPLATE = """\
+You are verifying a scientific claim against a figure or table.
+
+Claim:
+{claim}
+
+Caption:
+{caption}
+
+Context:
+{context}
+
+Evaluate the claim against the evidence in the IMAGE (primary), using the caption \
+and context as support. Decide SUPPORTED or REFUTED.
+
+DECISION RULE
+- SUPPORTED: the specific thing the claim asserts is positively confirmed by the \
+visible evidence (or is a genuinely peripheral detail that nothing contradicts).
+- REFUTED: the claim's core assertion is contradicted by the evidence, OR the claim \
+asserts a specific value / ordering / comparison / causal link that the image is \
+capable of showing but does NOT positively confirm.
+
+RECALL PRINCIPLES (keep these - do not refuse on cosmetics)
+1. Absence-of-restatement is not contradiction. Do NOT refute merely because a \
+referenced detail is not restated, or lives in an appendix/unplotted axis. A \
+peripheral, unplotted detail that nothing contradicts stays SUPPORTED.
+2. Read genuinely hedged / qualitative wording charitably: "almost all", "usually", \
+"typically", "~", "roughly", "tends to", approximate rounding of a stated value.
+3. Cosmetic wording or caption/term paraphrase (e.g. a category renamed, a synonym, \
+a figure-vs-text label variant) does NOT override supporting image evidence.
+4. Do not reverse a correct reading over wording alone; trust the image over the caption.
+
+GUARDRAILS (these OVERRIDE the recall principles, but fire ONLY within the narrowed \
+scope described - a soft word cannot dissolve an explicit assertion, and a guardrail \
+must not fire on something the chart cannot plot)
+A. Positive-support requirement. If the claim asserts a specific ordering, ranking, \
+exact number, causal link, or "A vs B" relationship that the chart actually plots, \
+you must positively CONFIRM it; "nothing explicitly contradicts it" is NOT enough, \
+and if the asserted value/order/relation is absent or unverifiable in what is plotted, \
+answer REFUTED. Scope limits:
+   - A applies only to the claim's load-bearing PLOTTED quantity. Clauses introduced \
+by "since / because / despite / although / even though" and inferential connectives \
+("indicating / suggesting / implying") are NOT separately verifiable: if the plotted \
+comparison(s) they accompany are confirmed, do not refute on the framing clause. \
+Refute such a clause only if a plotted trend actually contradicts it.
+   - Legend text, in-plot annotations, and printed value labels ARE first-class \
+evidence. A number shown in the legend or as a printed label counts as positive \
+confirmation; refute only if the value appears nowhere in the plot or its text.
+   - Positive support binds the asserted DIRECTION/relation, not qualitative \
+magnitude words. Hedged or evaluative adverbs ("slightly", "little extra", "modestly", \
+"extremely weak/strong") and hedged relational wording ("almost overlaps", "roughly \
+equal") are non-falsifiable: confirm the direction (for "almost overlaps", overlapping \
+or closely-tracking series within their common domain confirm it) and do not refute \
+because your own size estimate differs from the adverb. Compare series only over their \
+actually-plotted domain. For a claim that NEGATES a causal source ("the gain does NOT \
+come from Y"), a within-noise with-Y vs without-Y delta CONFIRMS the negation; only a \
+substantial degradation on removing Y refutes it.
+B. Exact-value binding. When a claim ties a PRECISE number (specific decimals) to a \
+specific row AND column/condition, confirm it sits at that exact intersection; the \
+right number in the wrong column is a CONTRADICTION. Before firing, search ALL \
+rows/subsets sharing the same labels (e.g. both a Development and a Test block) for \
+the claimed value; refute only if it sits at no matching intersection - a caption \
+emphasizing one subset does not excuse skipping the others. Round/approximate \
+multipliers ("~10x", "an order of magnitude") are NOT exact assertions: compute the \
+ratio in the CORRECT direction and CONFIRM when it lands within roughly +/-25% of the \
+stated factor; reserve "differs by more than rounding = contradiction" for precise \
+decimals at exact intersections.
+C. Universal quantifiers. Fire ONLY when the claim contains an explicit universal \
+marker ("in all ...", "every", "each", "on all datasets", "consistently", "always"). \
+A general trend WITHOUT such a marker is judged SUPPORTED when it holds for the clear \
+majority of relevant rows. When a marker is present, a counterexample counts ONLY if \
+(i) it is measured against the exact baseline/reference the claim names - not a sibling \
+non-reference row - and (ii) it is a member of the set that "all" ranges over (a \
+weaker model INSIDE the winning method/group is not a counterexample to "beats all \
+baselines"). Exclude cells the caption flags as by-construction or footnoted. A soft \
+adverb still cannot dissolve a genuine explicit universal.
+D. Superlatives / exclusivity. Fire ONLY when the claim asserts a SINGLE named item \
+is uniquely at the extreme ("the highest / the main / the leading / the most X"): if \
+any rival ties or exceeds it, REFUTE - even if the cited value is numerically correct. \
+This does NOT cover: (i) a collective top-N list with respective values whose \
+descending order matches the chart - verify the order, do not require each member to \
+be #1; (ii) a plain comparative ("smaller / larger / lower") whose reference is \
+supplied by the caption/context - evaluate against that stated reference, not as an \
+intra-group ranking; (iii) exclusivity gated by a qualitative bar ("only X and Y are \
+high") - a rival refutes only if it actually meets the bar; values near a detection \
+limit or roughly an order of magnitude below the named group are "low".
+E. Directional comparisons. For "group A outperforms group B", compare only rows \
+sharing the SAME condition/setting - do NOT fabricate cross-condition pairs. A TIE in \
+a comparable pair is not a counterexample, and two items tied and listed adjacently in \
+a "followed by / >" ranking are consistent (adjacency is not strict >). Read each \
+cited value from its own cell first. Refute only when B strictly exceeds A in the \
+majority of same-condition pairs, or in the base condition the claim's aggregate \
+reading references; a roughly constant large margin across all columns is \
+confirmation, not contradiction.
+F. Perception discipline before deciding:
+   - The every-tick / single-crossing refutation applies ONLY to claims with explicit \
+universal/consistency language (all/every/each/consistently/always/at every point). \
+For a general comparative or converged-performance claim ("demonstrates superior \
+performance to ..."), judge the dominant/aggregate trend and the final converged \
+values, and treat epoch-0 / pre-convergence points and momentary ties or crossings as \
+non-decisive (Guardrail D likewise does not fire on a transient crossing for such \
+non-universal trend claims).
+   - For claims that DO carry explicit "consistently / always / at every point" \
+language, enumerate EVERY plotted tick (including minor/odd ticks) and scan for any \
+crossing or tie between the two named series; a single crossing or touch refutes it.
+   - Resolve every legend/axis abbreviation to a condition using the caption, and \
+cross-check that mapping against any result the context already states; bind each \
+curve to its legend label before reading its value; if your mapping is inconsistent \
+with a stated result, re-read the labels before comparing.
+
+Distinguish carefully: "a detail is merely not restated / is a paraphrase / is an \
+unplottable framing or magnitude word" (do NOT refute) versus "the claim's specific \
+asserted value, ordering, direction, or single-item superlative is contradicted OR \
+has no positive support in what the image plots" (REFUTE).
+
+Reason step by step, then conclude by stating: 'Therefore, the final answer is: \
+Answer: $ANSWER' (without quotes), where $ANSWER is either 'Supported' or 'Refuted'.\
+"""
+
+
+
